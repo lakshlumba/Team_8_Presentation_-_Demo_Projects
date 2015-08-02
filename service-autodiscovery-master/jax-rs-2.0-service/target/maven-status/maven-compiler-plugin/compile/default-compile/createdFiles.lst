@@ -1,0 +1,5 @@
+com\example\rs\JaxRsApiApplication.class
+com\example\model\Person.class
+com\example\ServerStarter.class
+com\example\config\AppConfig.class
+com\example\rs\PeopleRestService.class
